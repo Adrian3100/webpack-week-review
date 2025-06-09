@@ -17,7 +17,7 @@
 
 eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nError: Multiple configuration files found. Please remove one:\\n - package.json\\n - C:\\\\Users\\\\Adrian\\\\Documents\\\\CodeX\\\\src\\\\webpack-week-review\\\\.babelrc\\nfrom C:\\\\Users\\\\Adrian\\\\Documents\\\\CodeX\\\\src\\\\webpack-week-review\");\n\n//# sourceURL=webpack://webpack-template/./src/index.js?");
 
-/***/ })
+/***/ }) 
 
 /******/ 	});
 /************************************************************************/

@@ -20,7 +20,7 @@ export default {
         use: {
           loader: "babel-loader", // Use babel-loader to transpile
         },
-      },
+      }, 
     ],
   },
 };
